@@ -1,0 +1,189 @@
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija\VeterinarskaOrdinacija\bin\Debug\VeterinarskaOrdinacija.exe.config
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija\VeterinarskaOrdinacija\bin\Debug\VeterinarskaOrdinacija.exe
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija\VeterinarskaOrdinacija\bin\Debug\VeterinarskaOrdinacija.pdb
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.csprojAssemblyReference.cache
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.Form1.resources
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.Properties.Resources.resources
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.csproj.GenerateResource.cache
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.csproj.CoreCompileInputs.cache
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.exe
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.pdb
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.Admin.resources
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.Prijava.resources
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.PrijemPanel.resources
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija\VeterinarskaOrdinacija\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.Racun.resources
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.ZakazivanjePregleda.resources
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija\VeterinarskaOrdinacija\obj\Debug\RdlCompile.cache
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija\VeterinarskaOrdinacija\obj\Debug\RdlCompile.compiled
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.csproj.CopyComplete
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.Veterinar.resources
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.Uverenja.resources
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.ListaPacijenataPlacanjecs.resources
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.Prethodnipregledi.resources
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\VeterinarskaOrdinacija.exe.config
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\VeterinarskaOrdinacija.exe
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\VeterinarskaOrdinacija.pdb
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.Admin.resources
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.Form1.resources
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.ListaPacijenataPlacanjecs.resources
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.Prijava.resources
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.PrijemPanel.resources
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.Properties.Resources.resources
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.Veterinar.resources
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.ZakazivanjePregleda.resources
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.csproj.GenerateResource.cache
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\obj\Debug\RdlCompile.cache
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\obj\Debug\RdlCompile.compiled
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.csproj.CoreCompileInputs.cache
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.csproj.CopyComplete
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.exe
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.pdb
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\vetordinacija.mdf
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\vetordinacija_log.ldf
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\EnvDTE.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\stdole.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.VakcIzv.resources
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.Prethodnipr.resources
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.Izvestaj.resources
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.csprojAssemblyReference.cache
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.FRacun.resources
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\vetordinacija.mdf
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\vetordinacija_log.ldf
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\VeterinarskaOrdinacija.exe.config
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\VeterinarskaOrdinacija.exe
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\VeterinarskaOrdinacija.pdb
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\EnvDTE.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\stdole.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.csprojAssemblyReference.cache
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.Admin.resources
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.Form1.resources
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.FRacun.resources
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.Izvestaj.resources
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.ListaPacijenataPlacanjecs.resources
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.Prethodnipr.resources
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.Prijava.resources
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.PrijemPanel.resources
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.Properties.Resources.resources
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.VakcIzv.resources
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.Veterinar.resources
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.ZakazivanjePregleda.resources
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.csproj.GenerateResource.cache
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\obj\Debug\RdlCompile.cache
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\obj\Debug\RdlCompile.compiled
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.csproj.CoreCompileInputs.cache
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.csproj.CopyComplete
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.exe
+C:\Users\Jeca\source\repos\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija - Copy - Copy\VeterinarskaOrdinacija\obj\Debug\VeterinarskaOrdinacija.pdb
